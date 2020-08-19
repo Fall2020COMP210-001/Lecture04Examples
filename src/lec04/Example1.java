@@ -1,6 +1,6 @@
-package lec05;
+package lec04;
 
-public class Lec05Example1 {
+public class Example1 {
 
 	public static void main(String[] args) {
 		
